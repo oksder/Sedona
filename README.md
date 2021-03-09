@@ -1,1 +1,1 @@
-Website available from https://oksder.github.io/Sedona/
+Website available at https://oksder.github.io/Sedona/
